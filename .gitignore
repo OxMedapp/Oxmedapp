@@ -1,0 +1,18 @@
+# Frontend (React/Angular/Vue)
+node_modules/
+build/
+dist/
+.env
+*.local
+
+# Backend (Python)
+venv/
+env/
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
