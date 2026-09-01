@@ -59,7 +59,7 @@ class SmartRoutingScreen extends StatelessWidget {
               ),
               child: Stack(
                 children: [
-                  // Simplified map: grid lines and pins
+                  
                   CustomPaint(
                     painter: _MapPainter(),
                     size: Size.infinite,
